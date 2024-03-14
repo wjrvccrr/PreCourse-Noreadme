@@ -1,2 +1,2 @@
-Este es un repositorio de prueba 
+Hola que tal, este es un repo de prueba para subir al servidor 
 
