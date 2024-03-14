@@ -1,2 +1,2 @@
-Este proyecto es una prueba para sunir repositorios 
+Este es un repositorio de prueba 
 
